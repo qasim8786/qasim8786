@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @qasim8786
-- 👀 I’m interested in macjine learning and finance
+- 👀 I’m interested in machine learning and finance
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on ml projects
 - 📫 to reach me qasimmansoori853@gmail.com 
 
 <!---
